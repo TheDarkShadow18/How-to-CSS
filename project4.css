@@ -1,0 +1,30 @@
+
+.box{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+}
+.inner-box{
+    width: 300px;
+    margin: 0 auto;
+}
+.input{
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin: 8px auto;
+}
+.btn{
+    border-radius: 40px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    margin: 8px auto;
+}
+.gray{
+    color: gray;
+}
+.footnote{
+margin: 20px 0px;
+}
+

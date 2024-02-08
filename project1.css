@@ -1,0 +1,14 @@
+.box{
+    background-color: #00e68a;    ;
+    padding: 70px;
+    border-radius: 16px;
+}
+.h1{
+    font-size: 300px;
+}
+.btn{
+    border-radius: 16px;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+}
